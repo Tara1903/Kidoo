@@ -1,0 +1,6 @@
+{
+  "name": "KIDOO",
+  "description": "Premium & playful discovery for stationery, smart gadgets, creative hobbies, and lifestyle tech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center antenna & light -->
+    <path
+        android:fillColor="#FE8116"
+        android:pathData="M54,23 m-5,0 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0" />
+    <path
+        android:fillColor="#FE8116"
+        android:pathData="M51.5,27 h5 v7 h-5 z" />
+    
+    <!-- Left antenna ray -->
+    <path
+        android:fillColor="#FE8116"
+        android:pathData="M43,26 L38,20 L40.5,18 L45.5,24 Z" />
+    
+    <!-- Right antenna ray -->
+    <path
+        android:fillColor="#FE8116"
+        android:pathData="M65,26 L70,20 L67.5,18 L62.5,24 Z" />
+
+    <!-- Robot head / base body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,34 C30,34 26,38 26,44 L26,64 C26,72 32,78 40,78 L68,78 C76,78 82,72 82,64 L82,44 C82,38 78,34 74,34 Z" />
+
+    <!-- Robot screen face -->
+    <path
+        android:fillColor="#151B2B"
+        android:pathData="M35,41 C33,41 31,43 31,46 L31,62 C31,65 33,67 35,67 L73,67 C75,67 77,65 77,62 L77,46 C77,43 75,41 73,41 Z" />
+
+    <!-- Glowing cyan eyes -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M43,54 m-5.5,0 a5.5,5.5 0 1,0 11,0 a5.5,5.5 0 1,0 -11,0" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M65,54 m-5.5,0 a5.5,5.5 0 1,0 11,0 a5.5,5.5 0 1,0 -11,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M45,52 m-1.5,0 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67,52 m-1.5,0 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0" />
+
+    <!-- Cheerful blush cheeks -->
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M37,60 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0" />
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M71,60 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0" />
+
+    <!-- Smile line -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M50,60 Q54,64 58,60" />
+
+    <!-- Toy Gamepad D-pad badge / pencil tip on bottom right -->
+    <path
+        android:fillColor="#0CAB1C"
+        android:pathData="M54,80 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+</vector>
